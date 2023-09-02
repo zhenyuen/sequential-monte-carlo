@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from sequential_monte_carlo.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "sequential_monte_carlo"
